@@ -30,6 +30,12 @@ Methodology:
 
 1. Collect sales data, including temporal information and product details.
 
+To access the dataset used in this project, simply click on the link below:
+
+Sales Data Sample - Fun for Kids
+
+This dataset contains information about sales that will be analyzed to understand patterns and drive growth for Fun for Kids. You can download the CSV file directly from the provided link.
+
 
 
 2. Perform an initial data cleaning, handling missing values, and removing potential outliers.
